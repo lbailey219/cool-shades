@@ -10,4 +10,4 @@ Peppers,{Pepper}(http://www.peppersusa.com) a Pittsburgh Sunglasses company, is 
 
 
 ## About the product
-The new product, Rock-N-Stroll, are a pair of Bluetooth Bone Conduction Sunglasses that use cutting-edge technology to play music without the need for headphones. 
+The new product, Rock-N-Stroll, are a pair of Bluetooth Bone Conduction Sunglasses that use cutting-edge technology to play music without the need for headphones.
