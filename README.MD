@@ -10,6 +10,15 @@ Peppers,{Pepper}(http://www.peppersusa.com) a Pittsburgh Sunglasses company, is 
 - Bootstrap
 - Javascript
 
+## Wear the Beats
 
-## About the product
-The new product, Rock-N-Stroll, are a pair of Bluetooth Bone Conduction Sunglasses that use cutting-edge technology to play music without the need for headphones.
+With some wearables, it's fashion before function. That’s where it all began for us. We wanted to create a Wearable Device that you actually want to wear! Put them on. Walk around. Take a call or connect to your A.I. These wearable sunglasses offer the best of both worlds — convenience and connection — in a way that allows you to be present with your music as well as your surroundings. Wear the Beats in your life
+
+
+## Superb Sounds by New Vibra Speakers
+
+Experience New “Vibra” Speakers, best as bone conduction technology can get. They are bigger and closer to your ears. And the sound quality? Better than ever. Maximize your outdoor activities with powerful and excellent sounds.
+
+
+
+
