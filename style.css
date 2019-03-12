@@ -41,6 +41,12 @@ button{
  margin-left: 70px;
  margin-top: 40px;
 }
-.container{
+.col-md-2{
   background-image: url("cta-sunglasses.jpg");
+}
+.col-sm-3{
+  background-image: url("instagram-1.jpg");
+}
+.col-sm-4{
+  background-image: url("instagram-2.jpg");
 }
