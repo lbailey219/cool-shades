@@ -85,7 +85,8 @@ margin-left: 1000px;
   font-size: 30px;
   top: 50px;
 }
-.col-lg-3 button{
+.container-fluid bg-light button{
+  background-color: red;
   height: 40px;
   color: white;
   margin-left: 70px;
@@ -145,3 +146,22 @@ display: inline-block;
 .col-md-3 nav{
   margin-top: 70px
 }
+
+#mobile-products{
+  display: block;
+}
+#style-products{
+  display: none;
+}
+
+/* responsive */
+
+@media (min-width: 768px) {
+
+  #mobile-products{
+    display: none;
+  }
+  #style-products{
+    display: block;
+    }
+  }
