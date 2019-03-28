@@ -150,6 +150,10 @@ display: inline-block;
 .col-md-3 nav{
   margin-top: 70px
 } */
+.sunglasses-bkg{
+  background-image: url("images/features-background.jpg");
+  background-size: cover;
+}
 
 #mobile-products{
   display: block;
