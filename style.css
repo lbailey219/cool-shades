@@ -150,10 +150,14 @@ display: inline-block;
 .col-md-3 nav{
   margin-top: 70px
 } */
-.sunglasses-bkg{
-  background-image: url("images/features-background.jpg");
-  background-size: cover;
+.glasses-bkg {
+background-image: url("images/features-background.jpg");
+background-size: contain;
+background-position: center bottom;
+background-repeat: no-repeat;
+min-height: 840px;
 }
+
 
 #mobile-products{
   display: block;
