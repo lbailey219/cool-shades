@@ -181,7 +181,7 @@ min-height: 840px;
 }
 
 
-#mobile-products{
+#mobile-products-container{
   display: block;
 }
 #style-products{
@@ -192,7 +192,7 @@ min-height: 840px;
 
 @media (min-width: 768px) {
 
-  #mobile-products{
+  #mobile-products-container {
     display: none;
   }
   #style-products{
