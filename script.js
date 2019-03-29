@@ -22,7 +22,7 @@ var greenShades = {
   img:'images/product-green.jpg',
   price:199.99
 };
-var shades = [redShades, blackShades, blueShades, greenShades];
+var shades = [redShades, greenShades, blueShades, blackShades];
 
 
 function mobileProducts(product) {
@@ -33,6 +33,12 @@ function mobileProducts(product) {
           <br />
           <span>${product.subtitle}</span>
           <h3>${product.title}</h3>
+          <div class="circles">
+            <div class="circle red" data-index="0"></div>
+            <div class="circle green"data-index="1"></div>
+            <div class="circle blue"data-index="2"></div>
+            <div class="circle black"data-index="3"></div>
+          </div>
           <h5>$${product.price}</h5>
           <button type="button" class="btn btn-shop" "btn-sm">Add to Cart</button>
           <div class="bd-example">
@@ -44,4 +50,10 @@ function mobileProducts(product) {
 
 $(document).ready(function() {
   $('#mobile-products').html(mobileProducts(greenShades));
+
+  $('.circle').click(function(){
+    var index = $(this).data('index');
+
+    console.log(shades[index]);
+  });
 });

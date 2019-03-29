@@ -150,6 +150,28 @@ display: inline-block;
 .col-md-3 nav{
   margin-top: 70px
 } */
+.circle {
+  border-radius: 100%;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.black {
+  background: black;
+}
 .glasses-bkg {
 background-image: url("images/features-background.jpg");
 background-size: contain;
