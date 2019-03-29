@@ -45,7 +45,7 @@ function mobileProducts(product) {
 $(document).ready(function() {
   $('#mobile-products').html(mobileProducts( shades[0] ));
 
-  $('.circle').click(function(){
+ $('#mobile-products').on('click', '.circle', function() {
     var index = $(this).data('index');
 
     $('#mobile-products').html(mobileProducts( shades[index] ));
