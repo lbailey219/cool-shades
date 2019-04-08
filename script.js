@@ -33,6 +33,14 @@ function mobileProducts(product) {
           <br />
           <span>${product.subtitle}</span>
           <h3>${product.title}</h3>
+
+          <div class="circles">
+            <div class="circle red" data-index="0"></div>
+            <div class="circle green"data-index="1"></div>
+            <div class="circle blue"data-index="2"></div>
+            <div class="circle black"data-index="3"></div>
+          </div>
+
           <h5>$${product.price}</h5>
           <button type="button" class="btn btn-shop" "btn-sm">Add to Cart</button>
           <div class="bd-example">

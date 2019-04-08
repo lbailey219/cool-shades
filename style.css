@@ -150,6 +150,12 @@ display: inline-block;
 .col-md-3 nav{
   margin-top: 70px
 } */
+.ig-logo{
+  position: absolute;
+}
+.col-md-3 span{
+  font-size: 20px;
+}
 .circle {
   border-radius: 100%;
   display: inline-block;
