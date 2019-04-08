@@ -18,3 +18,7 @@ With some wearables, it's fashion before function. That’s where it all began f
 ## Superb Sounds by New Vibra Speakers
 
 Experience New “Vibra” Speakers, best as bone conduction technology can get. They are bigger and closer to your ears. And the sound quality? Better than ever. Maximize your outdoor activities with powerful and excellent sounds.
+<<<<<<< HEAD
+=======
+
+>>>>>>> c85df267b85d786caa4eef596ed5ce4f768d1bc1
